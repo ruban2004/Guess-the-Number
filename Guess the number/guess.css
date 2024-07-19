@@ -1,0 +1,55 @@
+*{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.heading{
+    font-size: 50px;
+    color:red ;
+}
+
+.box{
+    
+    width: 25%;
+    height: 10%;
+    border-color:red ;
+    font-size: x-large;
+    
+}
+
+input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.check{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.wr{
+    color: red;
+    padding-right: 50px;
+    font-size: x-large;
+
+}
+
+.score{
+    color: red;
+    font-size: x-large;
+    padding-right: 50px;
+
+}
+
+
+
+
+
